@@ -1,0 +1,4 @@
+$ cd ~/Desktop/ml_tokyo_8
+$ conda env create -f git/anaconda/environment-20181023.yml
+$ source activate skillupai-ml-tokyo8-20181023
+$ jupyter notebook
